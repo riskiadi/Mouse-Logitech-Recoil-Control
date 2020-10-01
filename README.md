@@ -4,16 +4,20 @@ Logitech with luascript
 ## Mouse Button Functions
 <table>
   <tr>
-    <th>Mouse Button</th>
+    <th>Button</th>
     <th>Function</th>
   </tr>
   <tr>
-    <th>4</th>
+    <th>Mouse Button 4</th>
     <th>Slow down the cursor rate</th>
   </tr>
   <tr>
-    <th>5</th>
+    <th>Mouse Button 5</th>
     <th>Accelerates the cursor rate</th>
+  </tr>
+  <tr>
+    <th>Num Lock</th>
+    <th>On/Off Recoil</th>
   </tr>
 </table>
 
