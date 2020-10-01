@@ -17,6 +17,8 @@ Logitech with luascript
   </tr>
 </table>
 
+<img src="https://raw.githubusercontent.com/riskiadi/Mouse-Logitech-Recoil-Control/master/assets/mouse%20button.jpg" />
+
 ## How to use
 1. Open Logitech Gaming Software
 <img src="https://raw.githubusercontent.com/riskiadi/Mouse-Logitech-Recoil-Control/master/assets/Screenshot_1.png"/>
