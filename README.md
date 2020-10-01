@@ -27,5 +27,5 @@ Logitech with luascript
 3. Right click and choose 'Scripting'
 <img src="https://raw.githubusercontent.com/riskiadi/Mouse-Logitech-Recoil-Control/master/assets/Screenshot_3.png"/>
 
-4. Copy and paste code to there and save.
+4. Copy and paste code (Script.lua) to there and save.
 <img src="https://raw.githubusercontent.com/riskiadi/Mouse-Logitech-Recoil-Control/master/assets/Screenshot_4.png"/>
